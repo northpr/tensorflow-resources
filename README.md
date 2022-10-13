@@ -12,9 +12,9 @@ I will try to update all the resources in the future. Such as:
 ## 📕 Other Good Resources
 I will paste all the good resources here
 
-| Number | Website | Detail |
-| ---- | ---- | ---- |
-| 00 | [github/mrdbourke](https://github.com/mrdbourke/tensorflow-deep-learning) | Very good resources that help me pass the tensorflow exam. |
-| 01 | [CNN Explainer](https://poloclub.github.io/cnn-explainer/) | If you don't understand Convolutional Neural Network, try this website |
-| 02 | [Word2Vec](http://jalammar.github.io/illustrated-word2vec/) | Very in detailed of Word2Vec |
+| Number | Type | Website | Detail |
+| ---- | ---- |---- | ---- |
+| 00 | Certificate | [github/mrdbourke](https://github.com/mrdbourke/tensorflow-deep-learning) | Very good resources that help me pass the tensorflow exam. |
+| 01 | CNN | [CNN Explainer](https://poloclub.github.io/cnn-explainer/) | If you don't understand Convolutional Neural Network, try this website |
+| 02 | NLP | [Word2Vec](http://jalammar.github.io/illustrated-word2vec/) | Very in detailed of Word2Vec |
 
