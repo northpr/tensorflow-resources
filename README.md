@@ -1,17 +1,16 @@
 # 🧠 Deep Learning with Tensorflow
 
-All of my resource for my work.Some of it based o Zero to Mastery Deep Learning with TensorFlow course.
-You could check almost every notebook. It is mostly tested in Google Colab so it means that you could try to replicate from my work for further research.
+All of my tools for working with TensorFlow. The Zero to Mastery Deep Learning with TensorFlow course is the base for some of it. Since it was largely tested in Google Colab, you might try to duplicate my findings for further in-depth analysis.
 
 ## 📂 Materials
-I will try to update all the resource in the future. It will included:
+I will try to update all the resources in the future. Such as:
 - Object Detection
 - Natural Language Processor
 - Time Series Analysis
 - Helper Function
 
 ## 📕 Other Good Resources
-I will pasted all the good resource here
+I will paste all the good resources here
 
 | Number | Website | Detail |
 | ---- | ---- | ---- |
